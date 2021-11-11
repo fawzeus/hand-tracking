@@ -11,3 +11,6 @@ this is a project to track hand hand movements
 - detect hands
 - track fingers movements
 - calculate fingers's posistions
+
+## Demo
+https://www.youtube.com/watch?v=77A6x0ILpDA
